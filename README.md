@@ -237,8 +237,11 @@ tools:context="com.example.android.intents.SecondActivity">
 </manifest>
 ~~~
 ## Output:
+![img_1](https://user-images.githubusercontent.com/94165168/235473001-5018f5b3-2b22-418b-b7d3-d96ef4c00feb.jpg)
 
+![img_2](https://user-images.githubusercontent.com/94165168/235473035-d09d4b93-4ea6-48bc-877c-77da0f111800.jpg)
 
+![img_3](https://user-images.githubusercontent.com/94165168/235473071-c1ae140c-7dbc-4684-99a8-30a5de4c896f.jpg)
 
 ## Result:
 Thus a Simple Android Application to open google page using Implicit Intents in Android Studio was developed and executed successfully.
